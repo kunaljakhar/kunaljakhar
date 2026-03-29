@@ -13,20 +13,20 @@ Full Stack Developer | MERN Specialist | Tech Enthusiast | Software Engineer<br>
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunaljakhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=2" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kunaljakhar&theme=tokyonight&hide_border=false&include_all_commits=true&v=3" alt="GitHub Stats" />
 <br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaljakhar&theme=tokyonight&hide_border=false&v=2" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunaljakhar&theme=tokyonight&hide_border=false&v=3" alt="GitHub Streak" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljakhar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunaljakhar&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact&v=3" alt="Top Languages" />
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=kunaljakhar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=2" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kunaljakhar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&v=3" alt="GitHub Trophies" />
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=3" alt="Dev Quote" />
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=kunaljakhar&icon=2&color=4&v=2)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=kunaljakhar&icon=2&color=4&v=3)](https://visitcount.itsvg.in)
 
 </div>
