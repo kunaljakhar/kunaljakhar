@@ -119,14 +119,17 @@ const kunal = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kunaljakhar&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+✨ Building AI-powered full-stack applications  
+🚀 Active contributor on GitHub  
+📈 Consistent coding streak & project development  
+💡 Passionate about solving real-world problems with tech  
+🤝 Open source & community involvement  
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
